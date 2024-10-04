@@ -40,7 +40,8 @@ except:
     print("Enter a valid input!")
 ```
 ### Output:
-![Uploading Screenshot (165).png…]()
+![Screenshot (165)](https://github.com/user-attachments/assets/d2753690-cf64-4762-b641-0437df19bebf)
+
 
 ### Result:
 Thus, the python program of binary search is implemented and the output is verified
