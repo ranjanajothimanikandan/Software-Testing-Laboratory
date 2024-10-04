@@ -14,8 +14,36 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-
-
+1.do…while
+```
+def display():
+start=input("Enter a positive value for START: ")
+end=input("Enter a positive value for END: ")
+if start.isnumeric() and end.isnumeric():
+while True:
+start=int(start)
+end=int(end)
+print(start,end=‘ ‘)
+if start<end:
+start+=1
+else:
+break
+else:
+print("Enter a valid positive number.")display()
+```
+2.while…do
+```
+start=input("Enter a positive value for START: ")end=input("Enter
+a positive value for END: ")
+if start.isnumeric() and end.isnumeric():
+start=int(start)
+end=int(end)
+while start<end:
+print(start)
+start+=1
+else:
+print("Enter a valid positive number.")
+```
 
 
 
@@ -29,6 +57,8 @@ Cases
 
 
 ### Output:
+![Screenshot (225)](https://github.com/user-attachments/assets/e385faac-6515-4238-b388-5b0798a8976a)
+![Screenshot (226)](https://github.com/user-attachments/assets/c12af2dc-699d-450c-93a6-916b8eac90a0)
 
 
 
