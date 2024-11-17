@@ -1,7 +1,7 @@
 # Ex.No: 12 Pytest Python program for Addition
  
 ### DATE:22-10-2024                                                                         
-### REGISTER NUMBER :212222040095
+### REGISTER NUMBER :212222040131
 ### AIM: 
 To write a python program for addition of two numbers and test the test cases using Pytest
  
@@ -28,10 +28,6 @@ def test_2_plus_3_equals_5():
 ```
 ### Output:
 ![image](https://github.com/user-attachments/assets/ebea3206-cdee-439d-a685-0365784964c4)
-
-
-
-
 
 
 ### Result:
